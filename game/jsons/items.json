@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "manga",
+        "description": "basic food",
+        "type": "food",
+        "func": "baisc()"
+    },
+    {
+        "id": 2,
+        "name": "engine",
+        "description": "a motor engine",
+        "type": "car_part",
+        "func": "baisc()"
+    },
+    {
+        "id": 3,
+        "name": "wheels",
+        "description": "wheels",
+        "type": "car_part",
+        "func": "baisc()"
+    }
+]

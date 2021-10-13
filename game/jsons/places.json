@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "store",
+        "description": "sells baisc items",
+        "stock": ["manga"]
+    },
+    {
+        "id": 2,
+        "name": "Garage",
+        "description": "",
+        "stock": []
+    },
+    {
+        "id": 3,
+        "name": "",
+        "description": "",
+        "stock": [
+            "engine",
+            "wheels"
+            ]
+    }
+]
